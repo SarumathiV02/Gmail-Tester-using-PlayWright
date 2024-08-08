@@ -1,0 +1,7 @@
+{
+    "access_token": "<-- Example access token -->",
+    "refresh_token": "<-- Example refresh token -->",
+    "scope": "https://www.googleapis.com/auth/gmail.readonly",
+    "token_type": "Bearer",
+    "expiry_date": 1723108650237
+}
